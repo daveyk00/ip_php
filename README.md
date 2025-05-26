@@ -1,1 +1,2 @@
-# ip_php
+# ip.php
+Using PHP displays client IP
